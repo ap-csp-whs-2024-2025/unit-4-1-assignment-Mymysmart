@@ -1,9 +1,12 @@
+//classwork.cpp 
+
 #include <iostream>
-#include <string>
 
 int main()
 {
-  // write code here
+int age; 
+  age = 10; 
   
+  double price= 19.99; 
   return 0;
 }
